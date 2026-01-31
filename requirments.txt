@@ -1,0 +1,6 @@
+ipykernal
+numpy
+pandas
+flask
+seaborn
+matplotlib
